@@ -1,0 +1,35 @@
+{
+  "tokenStandard": "nft",
+  "number": 9,
+  "symbol": "CERT",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "EscsnpgzWaC8R4Qwxsyjak6NZ6fygaBiLHWQz4nPrmCE",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "sdriveApiKey": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.01,
+        "destination": "2ZeySJZ8b3qKMpwwnqWdsQQSTvr4YTNx6Ewjhzy56ts1"
+      },
+      "botTax": {
+        "value": 0.001,
+        "lastInstruction": true
+      }
+    }
+  },
+  "maxEditionSupply": null
+}

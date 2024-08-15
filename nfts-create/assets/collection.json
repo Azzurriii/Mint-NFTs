@@ -1,0 +1,32 @@
+{
+    "name": "Certificate of Completion",
+    "symbol": "CERT",
+    "description": "This NFT certifies that the holder has successfully completed the course on Studihub.",
+    "seller_fee_basis_points": 500,
+    "image": "assets/collection.png",
+    "external_url": "https://studihub.io/",
+    "edition": 1,
+    "attributes": [
+        {
+            "trait_type": "Course Name",
+            "value": "Blockchain Basics"
+        },
+        {
+            "trait_type": "Completion Date",
+            "value": "2024-08-12"
+        },
+        {
+            "trait_type": "Certificate ID",
+            "value": "CERT-001"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}

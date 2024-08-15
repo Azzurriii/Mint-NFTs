@@ -1,0 +1,90 @@
+{
+  "program": {
+    "candyMachine": "5m6naeXV5Hk86tzPNC8v5nWp1z3pG5gAtauWzsny4ocA",
+    "candyGuard": "",
+    "candyMachineCreator": "4X4UcetrQTaQKwrk1SNbJCBYLZqc6Mx9VM5wCfqvdoig",
+    "collectionMint": "CFcLmfRLyvpZLkGQ5A2M9o8XRpueSuZr7bfeDbqkGe4h"
+  },
+  "items": {
+    "-1": {
+      "name": "Certificate of Completion",
+      "image_hash": "317387e4bead51b5edd26b511e06d877fe3383263fdd4a67f7fb33683d23d6a6",
+      "image_link": "https://arweave.net/KvuNla-EQapugSOTF3e1FDpK2p3KiEsS2DlZyTxoMvg?ext=png",
+      "metadata_hash": "62b8f8a25db0e5c6c1cf1fed18731cfc6faef23979479a14f5b586ee6a309203",
+      "metadata_link": "https://arweave.net/8jbeSxeReLn3zdQJ9ZDQfxwDIY7nXcsyFGkOfwe1zs0",
+      "onChain": true
+    },
+    "0": {
+      "name": "Certificate of Completion #0",
+      "image_hash": "aa91f7fd4f33340535d474ae81bb8efe7f43e7aee761088078f93659f4f9e609",
+      "image_link": "https://arweave.net/A4gifh91yar1MChnYZUKLprNrdk3R2b1eos_CYdlHqE?ext=png",
+      "metadata_hash": "9f92581837ed0c9ab24784fe4fcf371b7f740c3c477b52a9de72aa69f8a3ed4f",
+      "metadata_link": "https://arweave.net/E_H3HLg0O22NYmq3im3vOdmqCWKGb-o5eNFHJ8XyPTM",
+      "onChain": true
+    },
+    "1": {
+      "name": "Certificate of Completion #1",
+      "image_hash": "97cce1420d4b855315332a1574531ca7f0219865209b2d396e2bed108334a779",
+      "image_link": "https://arweave.net/Y9Fghgoj0NXvjK9GaklCKDlytCU72eMTXNrgiJw68To?ext=png",
+      "metadata_hash": "5e1900fedf1856d98178c8aaf5e8514c387e905eadcf835090329d1772737997",
+      "metadata_link": "https://arweave.net/WFBXd0f6LUhC7us4dw6QOg5m6E2BUV-VlX5GdTpO_iY",
+      "onChain": true
+    },
+    "2": {
+      "name": "Certificate of Completion #2",
+      "image_hash": "d3aad39f3c0b920e4b10fb29bf9e7775b9cf4cf68ca861a99489803f4682ba92",
+      "image_link": "https://arweave.net/ERjs2_aKhbepeHmviN-6T_aYIRhvJDuOz-BinD7tbRQ?ext=png",
+      "metadata_hash": "ae38c33c68394fb25de22e8ce62a5bff38cdcbd78fb4c23d9ab3d5a25037483a",
+      "metadata_link": "https://arweave.net/uP9dwBliFYEw55H4_eRTKebxn7jjlevj7Vhzqt1WnZk",
+      "onChain": true
+    },
+    "3": {
+      "name": "Certificate of Completion #3",
+      "image_hash": "b9232384d14eaeebd844611994c2c52c4a2053d668913a1fbeeeae1e8eeeaa10",
+      "image_link": "https://arweave.net/JGTkHuaIbwzNbWFhilc2ejGJGaMGHkWvvQZPcsbY1Qc?ext=png",
+      "metadata_hash": "6a3dbf2fa069336c15f5795d3e1d0ec2af9d8dbc84cde3bf3622a6b4e0384f83",
+      "metadata_link": "https://arweave.net/ofClaHGhQ7xDtqKaRzZjZmdyTa8-0TMmKAp-X6eTUb0",
+      "onChain": true
+    },
+    "4": {
+      "name": "Certificate of Completion #4",
+      "image_hash": "a7a36afc8725b2e3079ab7739a1be363cb3d21f31676b51d4a99ef01e8c2ab5c",
+      "image_link": "https://arweave.net/QuYctbrMmYWA1Dy9IPPSeMBuQtL02MSPbfn7ybYzPRk?ext=png",
+      "metadata_hash": "bee5a371dd55b5378044ad20e5c5791f35157c46e02d0f0ef582ab4524eaf02f",
+      "metadata_link": "https://arweave.net/Aox14qdSUrBVOPn4-Hz8w_gUDaIurPnqmSuZYQKQddU",
+      "onChain": true
+    },
+    "5": {
+      "name": "Certificate of Completion #5",
+      "image_hash": "aef4f0660e62f09aad6a2f3d19003592db98ab17fafa8149e227d1ab08b5d963",
+      "image_link": "https://arweave.net/3rXS6WfTRddP0xWn4ud0-Dz5bbc5LRob8qe8mACbAIM?ext=png",
+      "metadata_hash": "0343dbfe9b7a9ced5a28b4b933263a49e6637aa3aa57d1e37b8f90c308e83e93",
+      "metadata_link": "https://arweave.net/K0K4A0OFb4MBLscDxOlTcgBLgF4SLC8dqfGyvHh5nfk",
+      "onChain": true
+    },
+    "6": {
+      "name": "Certificate of Completion #6",
+      "image_hash": "299a9e167a31a5740a607436753c23034e9c1e631d082060783c10a5181a5fb0",
+      "image_link": "https://arweave.net/t9ge93bgZEtclq9QIkG5CKn9spMpGlVGNkrp8DXqKMU?ext=png",
+      "metadata_hash": "00d81e3cfad5b4446ff0968d0278a9d515820b2dcb6308f196cc253a06d15d24",
+      "metadata_link": "https://arweave.net/0p0sIVcOzkzllhFWc9tBdHe7uSlyJUKhAzH3Y5yVNrU",
+      "onChain": true
+    },
+    "7": {
+      "name": "Certificate of Completion #7",
+      "image_hash": "d97bb18ca6784503f2a10baa8097aa1ce471afb94870f68bed2331565a4084ab",
+      "image_link": "https://arweave.net/QCZfets4ZCwNfBtRoLTN-O4OILcqBo5CNIvEtGjCAxY?ext=png",
+      "metadata_hash": "1730bcda5eb0b13a585bbd0710d3a84f56c02908f4ba5735bf03ed94e57352a3",
+      "metadata_link": "https://arweave.net/5IVXLu5SNJk-Bd4FWOYfd1jDgq13-WY7CaMuSWS6bj0",
+      "onChain": true
+    },
+    "8": {
+      "name": "Certificate of Completion #8",
+      "image_hash": "c5da50780b5fc5e8952003fd95c4e48f9f44a7debe0163c80aaee4b7dfc0e97a",
+      "image_link": "https://arweave.net/Qj7PZRJNTwH7gSM51_8PNfh18JKAcIhKho_-VZ2AsRg?ext=png",
+      "metadata_hash": "388b7f2355e85104d480cc0b2a96005b64ca36d756dcc6f3bfe6f42761de27a4",
+      "metadata_link": "https://arweave.net/GuiCUs3KiyY3xRBfSty5wUSX6aTLlJigm9VYYWauFsg",
+      "onChain": true
+    }
+  }
+}
