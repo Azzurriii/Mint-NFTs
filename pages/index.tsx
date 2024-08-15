@@ -266,7 +266,7 @@ export default function Home() {
             </Stack>
           </CardBody>
         </Card >
-        {umi.identity.publicKey === candyMachine?.authority ? (
+        {/* {umi.identity.publicKey === candyMachine?.authority ? (
           <>
             <Center>
               <Button backgroundColor={"red.200"} marginTop={"10"} onClick={onInitializerOpen}>Initialize Everything!</Button>
@@ -285,7 +285,7 @@ export default function Home() {
           </>)
           :
           (<></>)
-        }
+        } */}
 
         <Modal isOpen={isShowNftOpen} onClose={onShowNftClose}>
           <ModalOverlay />
